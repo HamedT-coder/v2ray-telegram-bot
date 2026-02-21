@@ -1,0 +1,6 @@
+python-telegram-bot==21.1
+pydantic==2.5.0
+python-dotenv==1.0.0
+requests==2.31.0
+cryptography==41.0.7
+base64==3.10.0

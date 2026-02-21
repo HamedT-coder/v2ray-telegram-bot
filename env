@@ -1,0 +1,11 @@
+# Telegram Bot Token (REQUIRED)
+TELEGRAM_BOT_TOKEN=8487968126:AAE-iflGeeD-NJGzte8fqoSCvHJMpj9QQvI
+
+# Logging Level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+LOG_LEVEL=INFO
+
+# Rate limiting (requests per minute per user)
+RATE_LIMIT=30
+
+# API request timeout in seconds
+API_REQUEST_TIMEOUT=20
